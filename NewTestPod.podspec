@@ -1,5 +1,5 @@
 Pod::Spec.new do |s|
-s.name             = "QZCellViewController"    #名称
+s.name             = "NewTestPod"    #名称
 s.version          = "1.0.0"             #版本号
 s.summary          = "Just Testing."
 s.description      = <<-DESC
